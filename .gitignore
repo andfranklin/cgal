@@ -1207,3 +1207,8 @@ gmon.*
 /Operations_on_polyhedra/examples/Operations_on_polyhedra/cgal_test_with_cmake
 /Operations_on_polyhedra/test/Operations_on_polyhedra/cgal_test_with_cmake
 lib/*
+*.dylib
+*.la
+*.lo.d
+*.lo
+.libs
